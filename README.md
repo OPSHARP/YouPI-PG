@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- 3D DYNAMIC WAVING BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,12,6,2,0&height=220&section=header&text=YouPI%20Payment%20Gateway&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=%F0%9F%92%B3%20Zero-Fee%20Self-Hosted%20UPI%20Payment%20Gateway%20%E2%80%A2%20Webhook%20Engine&descAlignY=62&descAlign=50" width="100%" alt="YouPI Payment Gateway 3D Banner" />
-
   <!-- 3D ANIMATED PROJECT ICON -->
   <a href="https://github.com/OPSHARP/YouPI-PG">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Credit%20Card.png" width="95" height="95" alt="YouPI Payment Gateway 3D Icon" />
@@ -24,7 +21,7 @@
 
 <div align="center">
 
-```
+  ```
 ██╗   ██╗ ██████╗ ██╗   ██╗██████╗ ██╗    ██████╗  ██████╗ 
 ╚██╗ ██╔╝██╔═══██╗██║   ██║██╔══██╗██║    ██╔══██╗██╔════╝ 
  ╚████╔╝ ██║   ██║██║   ██║██████╔╝██║    ██████╔╝██║  ███╗
@@ -548,15 +545,11 @@ Distributed under commercial and sovereign licensing for independent merchant de
 
 <div align="center">
 
-### Built for Financial Sovereignty in India 🇮🇳
+  ### Built for Financial Sovereignty in India 🇮🇳
 **Take back control of your payments. Zero middleman fees. Direct settlement.**
 
 ⭐ **Star this repository if you believe in open, zero-fee payment infrastructure!**
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,12,6,2,0&height=100&section=footer" width="100%" alt="3D Waving Footer" />
-</div>
